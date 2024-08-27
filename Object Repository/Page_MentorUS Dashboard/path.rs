@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>099a15f9-3050-4eb4-a54e-24ea80ed17e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.MuiListItemButton-root.MuiListItemButton-gutters.css-17sfj9k-MuiButtonBase-root-MuiListItemButton-root > div.MuiListItemIcon-root.css-cveggr-MuiListItemIcon-root > svg > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Oficial&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>f6b561a0-72ff-4c83-ade1-5c26af12fd36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>9baeacf5-f685-43cc-a573-0a0a2d580dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>clip-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>7eaf15f3-c732-4f0a-872e-b0d5e7635dfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M10.1104 2.00608C10.6593 2.06707 11.0548 2.56149 10.9938 3.1104L10.4506 8H14.4383L15.0061 2.88953C15.0671 2.34063 15.5615 1.94509 16.1104 2.00608C16.6593 2.06707 17.0548 2.56149 16.9938 3.1104L16.4506 8H20C20.5523 8 21 8.44772 21 9C21 9.55228 20.5523 10 20 10H16.2283L15.7839 14H20C20.5523 14 21 14.4477 21 15C21 15.5523 20.5523 16 20 16H15.5617L14.9938 21.1104C14.9329 21.6593 14.4384 22.0548 13.8895 21.9938C13.3406 21.9329 12.9451 21.4384 13.0061 20.8895L13.5494 16H9.56167L8.99385 21.1104C8.93286 21.6593 8.43844 22.0548 7.88953 21.9938C7.34063 21.9329 6.94509 21.4384 7.00608 20.8895L7.54936 16H4C3.44772 16 3 15.5523 3 15C3 14.4477 3.44772 14 4 14H7.77159L8.21603 10H4C3.44772 10 3 9.55228 3 9C3 8.44772 3.44772 8 4 8H8.43825L9.00608 2.88953C9.06707 2.34063 9.56149 1.94509 10.1104 2.00608ZM13.7716 14L14.216 10H10.2283L9.78389 14H13.7716Z</value>
+      <webElementGuid>cfd80c9d-da83-45dc-8b82-5c9aeb23dd59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#A5A5A5</value>
+      <webElementGuid>03bebfcc-dc51-4eb7-9281-856ccdb710e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-full w-full h-svh max-h-svh flex flex-row flex-grow overflow-hidden MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap css-pad2pl-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true h-full css-12skwwf-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap css-973qre-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto min-w-80 max-w-80 !h-full bg-white border-r-2 css-1hx0a12-MuiGrid-root&quot;]/div[@class=&quot;flex flex-col mt-1&quot;]/nav[@class=&quot;MuiList-root MuiList-padding css-yaydtu-MuiList-root&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-pwcg7p-MuiCollapse-root&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner&quot;]/div[@class=&quot;MuiList-root css-110zuwj-MuiList-root&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters css-17sfj9k-MuiButtonBase-root-MuiListItemButton-root&quot;]/div[@class=&quot;MuiListItemIcon-root css-cveggr-MuiListItemIcon-root&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>972e48d0-2338-4722-859e-ff9f3de96e2b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6ManageGroups</name>
+   <tag></tag>
+   <elementGuidId>2ae5df79-6ec6-4918-97e3-2c5e6091b019</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/header/div/div/div/h6</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h6.MuiTypography-root.MuiTypography-h6.MuiTypography-noWrap.css-hmr8w-MuiTypography-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Quản lý nhóm&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>efbb847b-2b58-4194-b6d4-cef22e5130d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h6 MuiTypography-noWrap css-hmr8w-MuiTypography-root</value>
+      <webElementGuid>672ee65b-1e45-4a3e-9ecb-3335c3f8044d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quản lý nhóm</value>
+      <webElementGuid>85c928b2-ce6b-49b6-9a28-7660dc19621d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-1xri2qh&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorInherit MuiAppBar-positionStatic css-2zw9n6-MuiPaper-root-MuiAppBar-root&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-6g765d-MuiToolbar-root&quot;]/div[@class=&quot;MuiBox-root css-1n8f1nf&quot;]/div[@class=&quot;MuiBox-root css-1fdwtd7&quot;]/h6[@class=&quot;MuiTypography-root MuiTypography-h6 MuiTypography-noWrap css-hmr8w-MuiTypography-root&quot;]</value>
+      <webElementGuid>8e79365e-ab09-4ace-9220-979f63426ef3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/header/div/div/div/h6</value>
+      <webElementGuid>51fb03cd-b079-4e86-ba81-9ba8f3be275c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý nhóm'])[2]/following::h6[1]</value>
+      <webElementGuid>83b5fb66-ead2-415a-b35c-ff661f57c64d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoạt động'])[1]/following::h6[1]</value>
+      <webElementGuid>7e769391-7f8c-4ddc-9121-eea64d5865ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm kiếm'])[1]/preceding::h6[1]</value>
+      <webElementGuid>4e5eaecf-f5bf-429a-a9a2-95ac527a4d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::h6[1]</value>
+      <webElementGuid>31af434a-31c1-4055-a0ff-f6a10b08dac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/div/h6</value>
+      <webElementGuid>fb6cc6e4-4d95-4025-a587-cbf1c4085834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Quản lý nhóm' or . = 'Quản lý nhóm')]</value>
+      <webElementGuid>63f4e7cb-f7e2-4c70-a9c0-b025bc971dce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

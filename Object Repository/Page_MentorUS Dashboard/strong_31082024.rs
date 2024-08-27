@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_31082024</name>
+   <tag></tag>
+   <elementGuidId>bf3afbb4-1fc9-4caf-a326-5852305af5c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'MuiBox-root css-q1o7qq')][span[contains(text(), 'Thời gian kết thúc')]]/span/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;31/08/2024&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>73ccca47-dca2-42ff-ae93-4f84359b6961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>31/08/2024</value>
+      <webElementGuid>526c45d7-17eb-4fed-9e3f-4de832673748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-1xri2qh&quot;]/div[@class=&quot;MuiBox-root css-1ircn5c&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1vpwcmr-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-5y6y53-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 css-zow5z4-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-md-3 MuiGrid-grid-lg-3 css-1ac0b30-MuiGrid-root&quot;]/div[@class=&quot;MuiBox-root css-11ptvp6&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qobcnm-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-13oxgqj&quot;]/div[@class=&quot;MuiBox-root css-q1o7qq&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-button MuiTypography-gutterBottom css-1avl6qu-MuiTypography-root&quot;]/strong[1]</value>
+      <webElementGuid>c161d17c-30df-4c50-9876-d128e6c99f1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div[2]/div/div[2]/div/div[2]/div/div[2]/span/strong</value>
+      <webElementGuid>4265800a-fb3c-4fff-b907-42ee18616ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thời gian bắt đầu'])[1]/following::strong[1]</value>
+      <webElementGuid>2e48a7dc-4e53-488c-a73d-5dcdc054dea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MTC2'])[1]/following::strong[2]</value>
+      <webElementGuid>88a59157-4fd4-4a4f-a766-982b839f1402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thời gian kết thúc'])[1]/preceding::strong[1]</value>
+      <webElementGuid>39ef88ce-ac3c-4490-9df4-30b880f6637c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thời hạn'])[1]/preceding::strong[2]</value>
+      <webElementGuid>40d0c3b6-0bcf-4857-8026-144fc257a958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='31/08/2024']/parent::*</value>
+      <webElementGuid>d7f2aae6-1d2c-489a-8b05-561204c50a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/span/strong</value>
+      <webElementGuid>531d5c18-0b49-47e2-8246-c18673df3e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = '31/08/2024' or . = '31/08/2024')]</value>
+      <webElementGuid>28a36919-7ba6-4c43-842f-52a6eb7163bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

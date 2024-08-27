@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>createAppointment</name>
+   <tag></tag>
+   <elementGuidId>3d72c809-f22d-4b0f-b856-ec6c56170592</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Huỳnh Nguyễn Minh Huy'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium.MuiAutocomplete-clearIndicator.css-1l0271r-MuiButtonBase-root-MuiIconButton-root-MuiAutocomplete-clearIndicator > svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeSmall.css-1xwgyfb-MuiSvgIcon-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Xóa hết&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>d8b14795-32a3-4cab-b7a3-ef97a3523c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>717d5898-3a51-4dd9-941b-01835cf6e7e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>44c9f217-c316-468c-9aed-4582e1e7de50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>14fd4351-eee3-44ba-9950-2791b4ffaef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>5cc50d04-37b4-42c6-8ea8-e0f27a3ef089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>018d8f16-ca5e-4528-9849-87eb1df029e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-zw3mfo-MuiModal-root-MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-1sep8xo-MuiDialog-container&quot;]/form[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthMd MuiDialog-paperFullWidth !px-2 css-16z3t49-MuiPaper-root-MuiDialog-paper&quot;]/div[@class=&quot;MuiDialogContent-root !py-4 css-9igssw-MuiDialogContent-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-1xu1mzw-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true css-12skwwf-MuiGrid-root&quot;]/div[@class=&quot;MuiAutocomplete-root MuiAutocomplete-hasClearIcon MuiAutocomplete-hasPopupIcon !mt-2 css-4u8706-MuiAutocomplete-root&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1qi4im9-MuiFormControl-root-MuiTextField-root&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd MuiAutocomplete-inputRoot css-1di4za5-MuiInputBase-root-MuiOutlinedInput-root&quot;]/div[@class=&quot;MuiAutocomplete-endAdornment css-p1olib-MuiAutocomplete-endAdornment&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-clearIndicator css-1l0271r-MuiButtonBase-root-MuiIconButton-root-MuiAutocomplete-clearIndicator&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeSmall css-1xwgyfb-MuiSvgIcon-root&quot;]</value>
+      <webElementGuid>0d806bd2-7d42-4617-b99b-72bbe1e4a338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root MuiSvgIcon-fontSizeSmall css-1xwgyfb-MuiSvgIcon-root</value>
+      <webElementGuid>9a51cdff-d24a-4102-b3a3-dc4488ec52db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0cee0b86-0121-4424-b890-2b41444c0e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8dfd5a45-5ab0-4acf-9fff-90575a81f7a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>CloseIcon</value>
+      <webElementGuid>be309bea-885e-44d3-88fb-f2ad1452d1be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Huỳnh Nguyễn Minh Huy'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>17373c93-7851-4d1e-a7de-98287414344f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fa Ngọc Uyển Nhi'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>c61992da-c1ad-4b59-a696-fd365c33ee23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Người tham dự *'])[2]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>45419d32-af40-4c28-9d93-6d4113c2b05b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hủy'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>2ed67248-ac65-471a-8e8b-9501ff68d0bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='c'])[1]/following::*[name()='svg'][5]</value>
+      <webElementGuid>16f3ee2c-8585-48c5-8f8b-ece6f270d4cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chưa có cuộc trò chuyện nào'])[1]/following::*[name()='svg'][5]</value>
+      <webElementGuid>fa7d90af-870a-4e93-8f90-ff9d072db9d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soạn tin nhắn'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>2ced16e0-4df1-461e-95f3-d66d88f9fab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Sketch.'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>5418091d-0d6c-4a65-81b1-b9bdeab6624d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

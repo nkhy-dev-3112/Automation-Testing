@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divMessageSection</name>
+   <tag></tag>
+   <elementGuidId>6cb3e456-3cca-478b-b253-8ee0bf2e8bf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/a/li/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-v7ygw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Nhắn tin&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0a8620a2-5082-4cfa-acb2-7e305b231ec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-v7ygw</value>
+      <webElementGuid>1d460f6c-48a8-4f76-ad82-79a52a71b793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>chatNhắn tin</value>
+      <webElementGuid>04430e4f-fb65-4dc4-8827-52c5e8358bb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiDrawer-root MuiDrawer-docked css-1gk2xzy-MuiDrawer-docked&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-1ioqvny-MuiPaper-root-MuiDrawer-paper&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/a[1]/li[@class=&quot;MuiListItem-root MuiListItem-padding css-1l9osrx-MuiListItem-root&quot;]/div[@class=&quot;MuiBox-root css-v7ygw&quot;]</value>
+      <webElementGuid>91f1a31c-7455-4e1e-83b0-7d487b1a1deb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/a/li/div</value>
+      <webElementGuid>25e88833-19cf-4185-876f-54b8a3eb11d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MentorUS'])[1]/following::div[2]</value>
+      <webElementGuid>efb3566e-3c99-408a-8439-7c49e6594fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý nhóm'])[1]/preceding::div[4]</value>
+      <webElementGuid>aabf64f6-6d40-45af-8e1d-4b6de9e560d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>9f3779cc-f287-464e-9545-336754961f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'chatNhắn tin' or . = 'chatNhắn tin')]</value>
+      <webElementGuid>7dc10d67-e5db-430c-bf45-2ade204c10ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

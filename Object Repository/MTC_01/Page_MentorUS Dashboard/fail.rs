@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fail</name>
+   <tag></tag>
+   <elementGuidId>119ec4ed-bd74-4ef4-9af2-74ec1b89d069</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.swal2-x-mark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Tập tin import không hợp lệ!&quot;i >> span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5a56b19b-838e-425f-9495-1a41adf123c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal2-x-mark</value>
+      <webElementGuid>64485b90-cd25-4ef8-b6ec-43494b517700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-top-end swal2-backdrop-show&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-icon-error swal2-show&quot;]/div[@class=&quot;swal2-icon swal2-error swal2-icon-show&quot;]/span[@class=&quot;swal2-x-mark&quot;]</value>
+      <webElementGuid>0c5a0406-4dbd-4930-93e5-abe2eef5c5fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::span[1]</value>
+      <webElementGuid>46c1468c-5e69-4677-a817-f1339a4ec0fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tải lên danh sách tài khoản'])[1]/following::span[7]</value>
+      <webElementGuid>9943d3f5-2804-40eb-b528-6211e25173a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tập tin import không hợp lệ!'])[1]/preceding::span[3]</value>
+      <webElementGuid>a1fcd8ff-241e-4f10-bf41-5440ddeecd09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::span[4]</value>
+      <webElementGuid>96806db2-03c2-4610-8d60-5bbaa784068e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span</value>
+      <webElementGuid>124efb22-070c-4402-a699-c9e4fbac61e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

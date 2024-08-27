@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>uploadFileIcon</name>
+   <tag></tag>
+   <elementGuidId>267a2140-1605-4047-b8d0-d48b9ce1e294</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.relationship__searchBox-item.MuiBox-root.css-16pyyvj > span.material-icons-round.notranslate.MuiIcon-root.MuiIcon-fontSizeMedium.css-wh7jmd-MuiIcon-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Import danh sách emails&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ff728e85-ec9b-4b0b-8d68-32e1d823f775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons-round notranslate MuiIcon-root MuiIcon-fontSizeMedium css-wh7jmd-MuiIcon-root</value>
+      <webElementGuid>f69ae005-9dc0-45a2-8bec-76e95c85c32d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>331ed95b-299c-48f3-9ca3-28d52f09b4b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Import danh sách emails</value>
+      <webElementGuid>7a26a7fb-3846-408f-924f-5e836d6900d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mui-internal-clone-element</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e55561a5-276b-4d22-9506-c7c71750fe61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>upload_file</value>
+      <webElementGuid>9a94e635-34c8-4ce6-aef9-5432db0297d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root css-79ws1d-MuiModal-root&quot;]/div[@class=&quot;group-modal__container MuiBox-root css-3ximd0&quot;]/div[@class=&quot;MuiBox-root css-1qoos23&quot;]/div[@class=&quot;relationship__searchBox-item MuiBox-root css-16pyyvj&quot;]/span[@class=&quot;material-icons-round notranslate MuiIcon-root MuiIcon-fontSizeMedium css-wh7jmd-MuiIcon-root&quot;]</value>
+      <webElementGuid>c6e38219-cf97-4455-a1b5-279553f44948</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::span[1]</value>
+      <webElementGuid>7043c438-59b8-4400-94bd-e4c598c88220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[1]/following::span[2]</value>
+      <webElementGuid>7f070294-6c72-4240-89da-393d30ddb181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import danh sách emails'])[1]/preceding::span[5]</value>
+      <webElementGuid>b4110b67-73b6-4b83-8616-d61c22a6adb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='upload_file']/parent::*</value>
+      <webElementGuid>58a9d4bd-09ae-4aba-8d6a-ae65592437af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/span</value>
+      <webElementGuid>1d8d54ab-7f1a-4590-b26c-65bc4d33cab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'upload_file' or . = 'upload_file')]</value>
+      <webElementGuid>e3e2dcd2-849f-4226-b166-20ff83611c86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>From TC_001 to TC_040</description>
+   <name>MTC_01 Import multiple account by .xlsx file</name>
+   <tag>Feature 1</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a950d567-82e0-4359-bdcb-22f86c7187a1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6f623be6-fe5c-4839-8130-f8f0ffba4fc9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>84a429b0-a71a-482d-a3dd-a0fec7802375</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4381ce78-bdf4-49a3-9ff3-3cc917ab1db4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ce6982ad-d2b8-49e7-9906-0105a2161c00</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>102362a2-86f1-4852-a736-bec82ab2889e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f7c27153-6403-4d20-9186-7d9893cbf23b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f08ab45-5cc3-47ea-a212-f7cf6c1127be</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'D:\\\\HCMUS\\\\Year 3\\\\HK3\\\\Software Testing\\\\Test Data\\\\MTC1\\\\TC-033.xlsx'</defaultValue>
+      <description></description>
+      <id>6f623be6-fe5c-4839-8130-f8f0ffba4fc9</id>
+      <masked>false</masked>
+      <name>filePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tải lên thành công'</defaultValue>
+      <description></description>
+      <id>84a429b0-a71a-482d-a3dd-a0fec7802375</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+   <variable>
+      <defaultValue>'success'</defaultValue>
+      <description></description>
+      <id>4381ce78-bdf4-49a3-9ff3-3cc917ab1db4</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+   <variable>
+      <defaultValue>'true'</defaultValue>
+      <description></description>
+      <id>ce6982ad-d2b8-49e7-9906-0105a2161c00</id>
+      <masked>false</masked>
+      <name>first</name>
+   </variable>
+   <variable>
+      <defaultValue>'false'</defaultValue>
+      <description></description>
+      <id>102362a2-86f1-4852-a736-bec82ab2889e</id>
+      <masked>false</masked>
+      <name>end</name>
+   </variable>
+   <variable>
+      <defaultValue>'false'</defaultValue>
+      <description></description>
+      <id>f7c27153-6403-4d20-9186-7d9893cbf23b</id>
+      <masked>false</masked>
+      <name>isNotClick</name>
+   </variable>
+   <variable>
+      <defaultValue>['D:\\\\HCMUS\\\\Year 3\\\\HK3\\\\Software Testing\\\\Test Data\\\\MTC1\\\\TC-002.2.xlsx', 'D:\\\\HCMUS\\\\Year 3\\\\HK3\\\\Software Testing\\\\Test Data\\\\MTC1\\\\TC-002.1.xlsx']</defaultValue>
+      <description></description>
+      <id>3f08ab45-5cc3-47ea-a212-f7cf6c1127be</id>
+      <masked>false</masked>
+      <name>fileList</name>
+   </variable>
+</TestCaseEntity>

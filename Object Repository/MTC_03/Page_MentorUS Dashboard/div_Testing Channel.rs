@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Testing Channel</name>
+   <tag></tag>
+   <elementGuidId>539669a8-3268-499c-9c4e-8b2bae05d414</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/nav/div[3]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.MuiListItemButton-root.MuiListItemButton-gutters.css-17sfj9k-MuiButtonBase-root-MuiListItemButton-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Testing Channel&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a1447fd1-40d0-4f5b-aa60-6b28413aeb25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters css-17sfj9k-MuiButtonBase-root-MuiListItemButton-root</value>
+      <webElementGuid>6497a6a1-a446-4ba0-8a55-6f66e06410f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ab42d8c1-e549-434b-be85-22ffebc7805f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7c02d739-931b-4cda-a662-f117828558b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Testing Channel</value>
+      <webElementGuid>62d53450-3509-40c2-9dc0-a4b848526336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mui-internal-clone-element</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>86c3cce9-ab32-41b9-aa65-19791bb6f184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Testing Channel</value>
+      <webElementGuid>8f8585d9-210e-4ae9-b9ca-8c6127a5cc3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-full w-full h-svh max-h-svh flex flex-row flex-grow overflow-hidden MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap css-pad2pl-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true h-full css-12skwwf-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap css-973qre-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto min-w-80 max-w-80 !h-full bg-white border-r-2 css-1hx0a12-MuiGrid-root&quot;]/div[@class=&quot;flex flex-col mt-1&quot;]/nav[@class=&quot;MuiList-root MuiList-padding css-yaydtu-MuiList-root&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-pwcg7p-MuiCollapse-root&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner&quot;]/div[@class=&quot;MuiList-root css-110zuwj-MuiList-root&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters css-17sfj9k-MuiButtonBase-root-MuiListItemButton-root&quot;]</value>
+      <webElementGuid>35af5ea7-91b7-4585-81f3-ad637504731c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/nav/div[3]/div/div/div/div/div</value>
+      <webElementGuid>13ecc834-bec0-46ff-8dde-827b098ef8ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kênh'])[1]/following::div[6]</value>
+      <webElementGuid>95f5bd93-59b4-4262-b067-ecbecee033de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cuộc trò chuyện chung'])[1]/following::div[9]</value>
+      <webElementGuid>07433fd1-9e5d-46c6-bcf7-6124f34bea9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tin nhắn riêng'])[1]/preceding::div[4]</value>
+      <webElementGuid>3e3365e1-c798-4414-8093-4817c3cebe76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div</value>
+      <webElementGuid>97397a7f-f6e8-421b-80f9-9d813ced576f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Testing Channel' or . = 'Testing Channel')]</value>
+      <webElementGuid>f1d7911a-9eee-4d90-94ff-4fcb828c6409</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

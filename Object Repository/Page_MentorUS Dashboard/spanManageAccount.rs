@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>spanManageAccount</name>
+   <tag></tag>
+   <elementGuidId>a612a418-9497-42c2-9ff2-c4d2baa74ee8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(3) > li.MuiListItem-root.MuiListItem-padding.css-1l9osrx-MuiListItem-root > div.MuiBox-root.css-v7ygw > div.MuiListItemIcon-root.css-1scsc0f-MuiListItemIcon-root > span.material-icons-round.notranslate.MuiIcon-root.MuiIcon-fontSizeSmall.css-19llp29-MuiIcon-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/ul/a[4]/li/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Quản lý tài khoản&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ff7f9d4b-6833-4ec9-a8e2-fb6ac40d4d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons-round notranslate MuiIcon-root MuiIcon-fontSizeSmall css-19llp29-MuiIcon-root</value>
+      <webElementGuid>50bf3532-997d-48a0-a53b-ee465245a039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bad1f2b2-32ef-4b32-b4b3-b938b6766767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>account_circle</value>
+      <webElementGuid>4b7fd045-d972-4eea-aa6c-67d661e8f6a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiDrawer-root MuiDrawer-docked css-1gk2xzy-MuiDrawer-docked&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-1ioqvny-MuiPaper-root-MuiDrawer-paper&quot;]/ul[@class=&quot;MuiList-root MuiList-padding css-n4phvm-MuiList-root&quot;]/a[3]/li[@class=&quot;MuiListItem-root MuiListItem-padding css-1l9osrx-MuiListItem-root&quot;]/div[@class=&quot;MuiBox-root css-v7ygw&quot;]/div[@class=&quot;MuiListItemIcon-root css-1scsc0f-MuiListItemIcon-root&quot;]/span[@class=&quot;material-icons-round notranslate MuiIcon-root MuiIcon-fontSizeSmall css-19llp29-MuiIcon-root&quot;]</value>
+      <webElementGuid>f8d3f4d2-8df2-437a-b6df-39115959679d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/ul/a[3]/li/div/div/span</value>
+      <webElementGuid>d478c3e6-8b99-4350-b717-2fee72070253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý loại nhóm'])[1]/following::span[1]</value>
+      <webElementGuid>8243e81f-f25e-4119-9e89-df00ac28a5fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý nhóm'])[1]/following::span[3]</value>
+      <webElementGuid>429f260e-d637-4c45-b293-6595ac1503a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý tài khoản'])[1]/preceding::span[1]</value>
+      <webElementGuid>182fbedd-8181-49b1-9b47-662bf2a515ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoạt động'])[1]/preceding::span[3]</value>
+      <webElementGuid>0c71ccee-0757-4720-b6fd-16662ef70a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='account_circle']/parent::*</value>
+      <webElementGuid>4472166d-74b7-4b04-9043-e2862e146368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/li/div/div/span</value>
+      <webElementGuid>cfe86215-e9e9-4fdf-8bd3-70ee069cfa8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'account_circle' or . = 'account_circle')]</value>
+      <webElementGuid>3dc031cf-7a70-426a-b794-a13935ab582d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

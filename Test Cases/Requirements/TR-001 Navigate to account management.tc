@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TR-001 Navigate to account management</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>72f22519-deb8-41a1-9968-04d01a2ddc04</testCaseGuid>
+</TestCaseEntity>

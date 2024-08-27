@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnCancel</name>
+   <tag></tag>
+   <elementGuidId>c3c8b760-2e82-486d-b46d-9d993a0af1fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tải lên danh sách tài khoản'])[1]/following::p[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.css-13cnr6h-MuiButtonBase-root-MuiButton-root > p.MuiTypography-root.MuiTypography-body2.css-l5dj59-MuiTypography-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Hủy&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c4fcdb59-32c9-42d7-a202-4f91e32aaf3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body2 css-l5dj59-MuiTypography-root</value>
+      <webElementGuid>49f2eefb-d52e-469f-b50f-28c202c00309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hủy</value>
+      <webElementGuid>b31c82fe-e190-4e89-8e0c-83cc58cada34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root css-79ws1d-MuiModal-root&quot;]/div[@class=&quot;group-modal__container MuiBox-root css-1m3p9o7&quot;]/div[@class=&quot;MuiBox-root css-1gjulr8&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-13cnr6h-MuiButtonBase-root-MuiButton-root&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body2 css-l5dj59-MuiTypography-root&quot;]</value>
+      <webElementGuid>e5056439-d759-49d9-ac4a-54e43ef25891</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tải lên danh sách tài khoản'])[1]/following::p[5]</value>
+      <webElementGuid>d585e861-55b3-46fb-8510-8e46983f66c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hủy']/parent::*</value>
+      <webElementGuid>2b1094d4-29eb-4ee5-9966-5142b198410e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/button[2]/p</value>
+      <webElementGuid>350906df-b320-4b15-a105-c85b48c55205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Hủy' or . = 'Hủy')]</value>
+      <webElementGuid>8767681f-ac68-492e-837e-1ea6f1803b03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

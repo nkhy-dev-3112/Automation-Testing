@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_To lch hn</name>
+   <tag></tag>
+   <elementGuidId>883b0906-933f-41bc-b5c1-32cf7142d7be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDialogActions-root.MuiDialogActions-spacing.css-1yrow7f-MuiDialogActions-root > button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-colorPrimary.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-colorPrimary.css-1vqs9o7-MuiButtonBase-root-MuiButton-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Tạo lịch hẹn&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c162c828-a007-41b4-8ae9-b1a6fd32b6db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-1vqs9o7-MuiButtonBase-root-MuiButton-root</value>
+      <webElementGuid>3d718fad-0440-48df-9072-b76043fc9898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>323ef5d2-7344-4103-be06-c0a23b62faa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>989b32a9-6c75-438e-8299-05aadc513f10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tạo lịch hẹn</value>
+      <webElementGuid>c95dd01f-6cd0-45b6-8c60-69a62c354811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-zw3mfo-MuiModal-root-MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-1sep8xo-MuiDialog-container&quot;]/form[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthMd MuiDialog-paperFullWidth !px-2 css-16z3t49-MuiPaper-root-MuiDialog-paper&quot;]/div[@class=&quot;MuiDialogActions-root MuiDialogActions-spacing css-1yrow7f-MuiDialogActions-root&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-1vqs9o7-MuiButtonBase-root-MuiButton-root&quot;]</value>
+      <webElementGuid>b0d09fb1-123a-4d11-9577-864f99709496</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>6cc2c7dc-a4ba-4ae4-b782-944bc42272f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hủy'])[1]/following::button[1]</value>
+      <webElementGuid>d0350a1d-12b8-4d07-be6e-3f1da6d41e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Người tham dự (*)'])[2]/following::button[2]</value>
+      <webElementGuid>fffcde67-f099-4655-b4eb-c07d4efd38f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tạo lịch hẹn']/parent::*</value>
+      <webElementGuid>7fbc723c-3f07-43ae-99ba-2635cb1eb9eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]</value>
+      <webElementGuid>0a22cce3-6f58-4e2d-b8f7-fbd6a94a2852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Tạo lịch hẹn' or . = 'Tạo lịch hẹn')]</value>
+      <webElementGuid>77c68ba6-023a-4e83-b81d-88b7720eb386</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

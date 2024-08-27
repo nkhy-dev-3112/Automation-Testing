@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_mc mi trang_MuiBackdrop-root MuiModal-b_80be03</name>
+   <tag></tag>
+   <elementGuidId>097ba9f8-7802-484b-9588-f358ed68d9c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBackdrop-root.MuiModal-backdrop.css-sox5kk-MuiBackdrop-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.MuiBackdrop-root</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a6eddf0d-1d70-400a-a6ce-b9b6af0ee484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>19467f6d-ad3e-4741-afe1-179e4651295f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBackdrop-root MuiModal-backdrop css-sox5kk-MuiBackdrop-root</value>
+      <webElementGuid>2a8fb16a-5b1e-45f0-8b72-8a5ab4a8c185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root css-79ws1d-MuiModal-root&quot;]/div[@class=&quot;MuiBackdrop-root MuiModal-backdrop css-sox5kk-MuiBackdrop-root&quot;]</value>
+      <webElementGuid>387fb4f2-ca97-446d-b6d0-0f706cd839ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>5f599308-529d-4476-92e8-69d5cf6c8e72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

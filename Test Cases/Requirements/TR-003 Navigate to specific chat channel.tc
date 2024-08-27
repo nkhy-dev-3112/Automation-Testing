@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TR-003 Navigate to specific chat channel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bed146e3-3ecf-44d1-b92a-f1b193ccbf06</testCaseGuid>
+</TestCaseEntity>

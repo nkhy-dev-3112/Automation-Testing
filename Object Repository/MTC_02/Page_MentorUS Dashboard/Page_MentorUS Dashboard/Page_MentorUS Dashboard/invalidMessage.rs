@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>invalidMessage</name>
+   <tag></tag>
+   <elementGuidId>89c4ab29-189e-44e9-8fc2-d0f36b80576b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.swal2-popup.swal2-modal.swal2-icon-error.swal2-show</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Tập tin import không hợp lệ!&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7267e903-6c3b-4696-ac4b-043e8b9ea3e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>b02fa9b6-8d7d-4258-9dfc-a20fd8cd3c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>swal2-html-container</value>
+      <webElementGuid>bc45443b-143d-4684-aad9-30220043f5ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal2-popup swal2-modal swal2-icon-error swal2-show</value>
+      <webElementGuid>76299b29-3d31-4d2d-a482-671c8e44ef97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>b9cc50ab-7ebd-42c7-9015-80d4c337d481</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>740acd09-5ff0-474c-a0b1-40d0a9b9dca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>assertive</value>
+      <webElementGuid>9cb9cb1c-cfc4-4fc8-9f80-0e33bfcd65b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-modal</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b96abf69-affb-492d-84ba-e50fce5f75d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×
+    
+    
+  
+Tập tin import không hợp lệ!OKNoCancel</value>
+      <webElementGuid>73b386d2-bf18-4e7a-bf9a-fc367d507041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-top-end swal2-backdrop-show&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-icon-error swal2-show&quot;]</value>
+      <webElementGuid>640f707f-8127-4357-8140-6f10c75323d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::div[4]</value>
+      <webElementGuid>583f8bcd-463b-48c1-8c22-d8bb01dbe5f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[1]/following::div[7]</value>
+      <webElementGuid>f78f2a07-6dce-42e8-9962-715d1bef0321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>733f188e-ee75-4af5-b2ee-2aac1672bd95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tập tin import không hợp lệ!']</value>
+      <webElementGuid>e5c50835-8a66-4aa9-9a0a-e1081149d96d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

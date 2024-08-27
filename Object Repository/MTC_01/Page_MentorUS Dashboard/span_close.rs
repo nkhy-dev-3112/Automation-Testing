@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_close</name>
+   <tag></tag>
+   <elementGuidId>848522bb-95df-4c3e-9992-064ece3ea2e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.material-icons-round.notranslate.MuiIcon-root.MuiIcon-colorError.MuiIcon-fontSizeInherit.css-18lhqor-MuiIcon-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tải lên danh sách tài khoản'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;close&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cc13476f-90d1-4307-80e4-bd0ea4566823</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons-round notranslate MuiIcon-root MuiIcon-colorError MuiIcon-fontSizeInherit css-18lhqor-MuiIcon-root</value>
+      <webElementGuid>d325ca96-538a-4068-9630-3131867557b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>95f4337b-0219-429c-9abd-f95668fae7a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>24412cb4-80df-4e0b-851c-5be14586909d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root css-79ws1d-MuiModal-root&quot;]/div[@class=&quot;group-modal__container MuiBox-root css-1m3p9o7&quot;]/div[@class=&quot;MuiBox-root css-1ypgrnf&quot;]/div[@class=&quot;drop-file-input_container&quot;]/div[@class=&quot;drop-file-preview&quot;]/div[@class=&quot;drop-file-preview__container&quot;]/div[@class=&quot;drop-file-preview__item__del MuiBox-root css-1ircn5c&quot;]/span[@class=&quot;material-icons-round notranslate MuiIcon-root MuiIcon-colorError MuiIcon-fontSizeInherit css-18lhqor-MuiIcon-root&quot;]</value>
+      <webElementGuid>c1ff4bfd-7b13-4812-9116-32d4c63e4dc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tải lên danh sách tài khoản'])[1]/following::span[1]</value>
+      <webElementGuid>1b109ca4-173b-4bbb-b455-0936ec04c426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/span</value>
+      <webElementGuid>84dd71b5-3918-47b4-afb5-5727c37363f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'close' or . = 'close')]</value>
+      <webElementGuid>8f41b61f-ff6d-4be2-9c3c-0b35e314208d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

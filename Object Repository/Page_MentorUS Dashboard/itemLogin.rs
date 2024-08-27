@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>itemLogin</name>
+   <tag></tag>
+   <elementGuidId>35a7cedc-4d10-48ec-a7ec-be1b317ffe4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Đăng nhập&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eca233ac-5565-4c4e-a89c-30dae744f5d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/sign-in</value>
+      <webElementGuid>bffa0947-5306-46f8-baaa-1ebffa3fe187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng nhập</value>
+      <webElementGuid>3853f4ff-87d3-4eca-b21e-aded91a83add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/ul[@class=&quot;navbar&quot;]/li[4]/a[1]</value>
+      <webElementGuid>2af69772-1131-4790-b4c6-0bbfafb8c62d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/ul/li[4]/a</value>
+      <webElementGuid>3fa5b24f-5de9-4461-9946-33dd92f04a58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Đăng nhập')]</value>
+      <webElementGuid>ce69f115-d335-41cf-bf2c-484491d9e490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin'])[1]/following::a[1]</value>
+      <webElementGuid>705cbd31-2304-41a5-afc5-ffc688eebf21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hướng dẫn'])[1]/following::a[2]</value>
+      <webElementGuid>78e408bd-4438-48d3-9e87-92e540c3f90c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MentorUS'])[2]/preceding::a[1]</value>
+      <webElementGuid>3a337b13-04ba-4a9c-8b0f-58ffaa93ba66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hệ thống hỗ trợ cố vấn học tập'])[1]/preceding::a[1]</value>
+      <webElementGuid>614deab6-2d0e-4f7b-b58e-d9f600bfcd58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đăng nhập']/parent::*</value>
+      <webElementGuid>7c575934-83cb-49a7-bbfb-df7934ab9cea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/sign-in')]</value>
+      <webElementGuid>da366a64-d352-44e7-aef9-8386b80cb4c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>830ed1bc-13b5-4065-ae31-4415b182f727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/sign-in' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
+      <webElementGuid>6dd91888-783d-4053-b5b6-2881599d5379</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

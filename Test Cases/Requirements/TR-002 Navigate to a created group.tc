@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TR-002 Navigate to a created group</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d12942b7-c153-4fd8-90a6-5542b244d1cf</testCaseGuid>
+</TestCaseEntity>
